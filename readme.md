@@ -1,5 +1,8 @@
 This Python script primarily leverages the pandas library to manage and process datasets. It deals with a sample fitness dataset and personal fitness records (which can be customized for individual usage). This assumes some knowledge from Year 11 Assessment One using CarSales as a dataset.
 
+For more information head to my wiki http://ghs.vormamim.com/wiki
+
+
 ```
 import pandas as pd
 from datetime import datetime
