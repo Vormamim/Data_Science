@@ -1,4 +1,4 @@
-This Python script primarily leverages the pandas library to manage and process datasets. It deals with a sample fitness dataset and personal fitness records (which can be customized for individual usage).
+This Python script primarily leverages the pandas library to manage and process datasets. It deals with a sample fitness dataset and personal fitness records (which can be customized for individual usage). This assumes some knowledge from Year 11 Assessment One using CarSales as a dataset.
 
 ```
 import pandas as pd
